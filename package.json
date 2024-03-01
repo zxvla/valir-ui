@@ -1,0 +1,25 @@
+{
+  "name": "valir-ui",
+  "version": "1.2.2",
+  "description": "a simple UI frameworks",
+  "main": "valir.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zxvla/valir-ui.git"
+  },
+  "keywords": [
+    "valir-ui",
+    "bootstrap",
+    "ui",
+    "frameworks"
+  ],
+  "author": "zxvla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zxvla/valir-ui/issues"
+  },
+  "homepage": "https://github.com/zxvla/valir-ui#readme"
+}
