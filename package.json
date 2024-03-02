@@ -1,6 +1,6 @@
 {
   "name": "valir-ui",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "description": "a simple UI frameworks",
   "main": "valir.js",
   "scripts": {
