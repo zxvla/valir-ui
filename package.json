@@ -1,6 +1,6 @@
 {
   "name": "valir-ui",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "a simple UI frameworks",
   "main": "valir.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zxvla/valir-ui.git"
+    "url": "https://github.com/zxvla/valir-ui"
   },
   "keywords": [
     "valir-ui",
